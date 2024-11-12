@@ -1,4 +1,4 @@
-﻿# AI_MovieSuggestions
+﻿# MovieSuggestions
 
 *before you try this project, you must have a valid API key your own.
   - You can obtain an API key from the TMDB website. [TMDB](https://www.themoviedb.org/)
