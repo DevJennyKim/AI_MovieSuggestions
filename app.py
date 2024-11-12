@@ -3,7 +3,8 @@ import pickle
 import streamlit as st
 from tmdbv3api import Movie, TMDb
 
-api_key = os.getenv('API_KEY')
+
+api_key = st.secrets["API_KEY"] 
 
 movie = Movie()
 tmdb = TMDb()
